@@ -41,4 +41,4 @@ Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se c
 - [1 239,56 € : le coût de revient d'un déménagement de 27 m³](https://github.com/VincentChabran/combien-coute-un-demenagement)
 - [488 € : le budget d'une rentrée scolaire 2026](https://github.com/VincentChabran/combien-coute-une-rentree-scolaire)
 - [491 € : le budget de Noël 2025](https://github.com/VincentChabran/combien-coute-noel)
-
+- [490 €/mois : le budget d'un bébé de 0 à 3 ans](https://github.com/VincentChabran/combien-coute-un-bebe)
