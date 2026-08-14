@@ -24,6 +24,25 @@ Page source : https://www.cofidis.fr/fr/questions-de-budget/projets-des-francais
 Aucun chiffre de ce document n'a été recalculé ou extrapolé : ils sont recopiés tels que publiés
 par l'institut.
 
+## Un dispositif existe, mais il dépend de l'employeur
+
+Ce n'est pas une aide automatique comme l'Allocation de Rentrée Scolaire : le **Chèque-Vacances**
+n'existe que si l'employeur (ou le comité social et économique) choisit de le proposer.
+
+Quand il existe, la loi plafonne ce que l'employeur peut y verser **sans charges sociales** :
+**30 % du Smic brut mensuel, par salarié et par an**, soit **546,92 €** sur la base du Smic en
+vigueur au 1ᵉʳ janvier 2026 (1 823,07 € = 12,02 € × 151,67 h). Au-delà de ce plafond, la part
+excédentaire est soumise à cotisations sociales.
+
+Ce montant est un **plafond d'exonération**, pas un chiffre versé automatiquement à tout le monde :
+il dépend entièrement de la politique de l'entreprise ou du CSE. Il ne se soustrait donc pas du
+budget de 1 748 € ci-dessus — les deux ne mesurent pas la même chose (un budget déclaré par les
+ménages d'un côté, un plafond légal côté employeur de l'autre).
+
+**Source** : URSSAF, *Prestations du CSE exonérées de cotisations sous conditions* (section
+« Chèques vacances »), vérifiée à la source le 14/08/2026 :
+https://www.urssaf.fr/accueil/employeur/gerer-entreprise/comite-social-et-economique/prestations-cse-exo-conditions.html
+
 ## À propos
 
 Ce dépôt accompagne une épingle Pinterest (compte `orvaladigital`) qui reprend ce chiffre pour le
