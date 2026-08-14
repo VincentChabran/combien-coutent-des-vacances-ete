@@ -48,3 +48,4 @@ Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se c
 - [77 € vs 76 €](https://github.com/VincentChabran/combien-coute-la-fete-des-meres-et-des-peres)
 - [85 € (étude 2024)](https://github.com/VincentChabran/combien-coute-halloween)
 - [4 730 €](https://github.com/VincentChabran/combien-coute-des-obseques)
+- [138 € à 344 €/mois de reste à charge selon le mode (2024)](https://github.com/VincentChabran/combien-coute-la-garde-d-enfant)
