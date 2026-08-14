@@ -34,13 +34,17 @@ moyenne nationale — pas pour donner un conseil d'économie.
 
 ## La série « On a compté »
 
-**Toute la série, avec un chiffre-titre par sujet** : [github.com/VincentChabran](https://github.com/VincentChabran)
+Toute la série, avec un chiffre-titre par sujet : [github.com/VincentChabran](https://github.com/VincentChabran)
 
 Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se contentent d'affirmer, un sujet à la fois :
 
 - [783 €/an pour un chien, 571 €/an pour un chat](https://github.com/VincentChabran/combien-coute-un-chien-un-chat)
-- [19 293 € : le budget moyen d'un mariage en France](https://github.com/VincentChabran/combien-coute-un-mariage)
-- [1 239,56 € : le coût de revient d'un déménagement de 27 m³](https://github.com/VincentChabran/combien-coute-un-demenagement)
-- [488 € : le budget d'une rentrée scolaire 2026](https://github.com/VincentChabran/combien-coute-une-rentree-scolaire)
-- [491 € : le budget de Noël 2025](https://github.com/VincentChabran/combien-coute-noel)
-- [490 €/mois : le budget d'un bébé de 0 à 3 ans](https://github.com/VincentChabran/combien-coute-un-bebe)
+- [19 293 €](https://github.com/VincentChabran/combien-coute-un-mariage)
+- [environ 1 239,56 €](https://github.com/VincentChabran/combien-coute-un-demenagement)
+- [488 €](https://github.com/VincentChabran/combien-coute-une-rentree-scolaire)
+- [491 €](https://github.com/VincentChabran/combien-coute-noel)
+- [490 €/mois](https://github.com/VincentChabran/combien-coute-un-bebe)
+- [154 € (chez les couples qui la fêtent)](https://github.com/VincentChabran/combien-coute-la-saint-valentin)
+- [77 € vs 76 €](https://github.com/VincentChabran/combien-coute-la-fete-des-meres-et-des-peres)
+- [85 € (étude 2024)](https://github.com/VincentChabran/combien-coute-halloween)
+- [4 730 €](https://github.com/VincentChabran/combien-coute-des-obseques)
