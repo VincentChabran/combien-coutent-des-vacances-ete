@@ -1,5 +1,7 @@
 # Combien coûtent des vacances d'été ?
 
+![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coutent-des-vacances-ete.pages)
+
 **1 748 €** : c'est le budget moyen que les Français prévoyaient de consacrer à leurs vacances
 d'été 2026 — soit **287 € de moins qu'en 2025**.
 
