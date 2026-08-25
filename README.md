@@ -77,3 +77,4 @@ Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se c
 - [14 069 € (incendie, 2025)](https://github.com/VincentChabran/combien-coute-un-sinistre-habitation)
 - [3 128 €/mois (chambre non habilitée, 2024)](https://github.com/VincentChabran/combien-coute-un-ehpad)
 - [36 700 € (moyenne toutes motorisations, 2025)](https://github.com/VincentChabran/combien-coute-une-voiture-neuve)
+- [340 € (verres simples, remboursement Sécu 0,09 €, 2021)](https://github.com/VincentChabran/combien-coutent-des-lunettes)
