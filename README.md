@@ -78,3 +78,4 @@ Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se c
 - [3 128 €/mois (chambre non habilitée, 2024)](https://github.com/VincentChabran/combien-coute-un-ehpad)
 - [36 700 € (moyenne toutes motorisations, 2025)](https://github.com/VincentChabran/combien-coute-une-voiture-neuve)
 - [340 € (verres simples, remboursement Sécu 0,09 €, 2021)](https://github.com/VincentChabran/combien-coutent-des-lunettes)
+- [600 à 1 200 €/semestre, la Sécu en rembourse 193,50 €](https://github.com/VincentChabran/combien-coute-un-appareil-dentaire)
