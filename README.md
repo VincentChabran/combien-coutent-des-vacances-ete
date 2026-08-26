@@ -80,3 +80,4 @@ Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se c
 - [340 € (verres simples, remboursement Sécu 0,09 €, 2021)](https://github.com/VincentChabran/combien-coutent-des-lunettes)
 - [600 à 1 200 €/semestre, la Sécu en rembourse 193,50 €](https://github.com/VincentChabran/combien-coute-un-appareil-dentaire)
 - [1 315 € par oreille (DREES 2023), la Sécu en rembourse 240 €](https://github.com/VincentChabran/combien-coute-un-appareil-auditif)
+- [960 € le prix médian d'une semaine, 200 à 350 € de Pass Colo](https://github.com/VincentChabran/combien-coute-une-colonie-de-vacances)
